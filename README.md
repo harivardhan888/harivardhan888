@@ -1,49 +1,72 @@
-# <div align="center">Hi there, I'm Hari Vardhan Reddy 👋</div>
 
 <div align="center">
 
-<h3> 
-Data Scientist &middot; ML Engineer &middot; Data Analyst &middot; AI Researcher &middot; Backend Developer
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&random=false&width=435&lines=Hi+There!+👋;I'm+Hari+Vardhan+Reddy;Data+Scientist+%7C+Analyst;Gen+AI+%26+ML+Engineer;Backend+Developer" alt="Typing Animation" />
 
-<p color="#6e7681">
-  <em>Specializing in Generative AI, Large Language Models, and Scalable Data Systems.</em>
+<h3 align="center">A passionate Data & AI Engineer from India 🇮🇳</h3>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+
+</div>
+<br/>
+
+### 🖁 I’m currently working on **Agentic AI & RAG Architectures**
+
+### 👨‍💻 All of my projects are available at [https://github.com/harivardhan888](https://github.com/harivardhan888)
+
+### 👭 Ask me about **Generative AI, LLMs, Machine Learning, and FastAPI**
+
+### 💎 How to reach me **[Insert Email Here]**
+
+### 📝 Know about my experiences **[My Resume](#)**
+
+### ⚡ Fun fact **"I train models that hallucinates less than I do before my morning coffee! ☕🤖"**
+
+---
+
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/hari-vardhan-reddy" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="hari-vardhan-reddy" /></a>
+<a href="https://github.com/harivardhan888" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="harivardhan888" /></a>
 </p>
 
-</div>
-
 ---
 
-### About Me
+### 💡 Skills & Technologies:
 
- I am a multi-disciplinary engineer dedicated to solving high-stakes problems through **Data Science** and **Artificial Intelligence**. From architecting complex **RAG pipelines** to deploying production-grade **FastAPI** microservices, I focus on building software that is not only intelligent but also robust and scalable.
+#### 🖥️ Programming Languages:
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-I currently possess a deep focus on **Agentic Workflows** (CrewAI, LangGraph) and **Fine-Tuning LLMs** (LLaMA, Gemini) to create next-generation applications.
+#### ☁️ Cloud & AI/ML:
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-EB4C42?style=for-the-badge" />
+</p>
 
----
+#### 🏗️ Backend Development:
+<p>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-### Technical Expertise
-
-<div align="center">
-
-| **Core & Languages** | **Machine Learning & AI** | **Data Engineering & BI** | **Backend & DevOps** |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white) <br> ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white) <br> ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white) <br> ![PowerBI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) <br> ![Zapier](https://img.shields.io/badge/Zapier-000000?style=for-the-badge&logo=zapier&logoColor=white) |
-
-</div>
-
-<br>
-
-**Detailed Stack Breakdown:**
-
-*   **Generative AI & LLMs**: LangChain, LangGraph, CrewAI, Gemini, LLaMA, Fine-Tuning, RAG, OpenAI API.
-*   **Data Analysis**: Exploratory Data Analysis (EDA), Feature Engineering, Hypothesis Testing, A/B Testing.
-*   **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, NLTK, Gensim.
-*   **Databases**: PostgreSQL, MySQL, MongoDB, Firebase.
-*   **Tools**: VS Code, Git, GitHub Actions.
-
----
-
-<div align="center">
-  <sub>Let's build the future together.</sub>
-</div>
+#### 🛠️ Tools & Platforms:
+<p>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black" />
+</p>

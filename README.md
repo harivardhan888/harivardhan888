@@ -3,7 +3,7 @@
 <div align="center">
 
 <h3> 
-Data Scientist &middot; ML Engineer &middot; AI Researcher &middot; Backend Developer
+Data Scientist &middot; ML Engineer &middot; Data Analyst &middot; AI Researcher &middot; Backend Developer
 </h3>
 
 <p color="#6e7681">
@@ -14,7 +14,7 @@ Data Scientist &middot; ML Engineer &middot; AI Researcher &middot; Backend Deve
 
 ---
 
-### �‍💻 About Me
+### About Me
 
  I am a multi-disciplinary engineer dedicated to solving high-stakes problems through **Data Science** and **Artificial Intelligence**. From architecting complex **RAG pipelines** to deploying production-grade **FastAPI** microservices, I focus on building software that is not only intelligent but also robust and scalable.
 
@@ -22,7 +22,7 @@ I currently possess a deep focus on **Agentic Workflows** (CrewAI, LangGraph) an
 
 ---
 
-### � Technical Expertise
+### Technical Expertise
 
 <div align="center">
 
